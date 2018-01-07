@@ -68,7 +68,7 @@ public class PageController {
 	/**
 	 * 
 	 * 
-	 * Methods to Load All The Products and Based On the Category
+	 * Methods to Load Single Product Based On the Category-Id
 	 * 
 	 */
 	
