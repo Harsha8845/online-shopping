@@ -21,7 +21,13 @@
 			<version>${spring.version}</version>
 		</dependency>
 
-
+           <!--Linking Backend of Project -->
+             <dependency>
+              <groupId>net.kzn</groupId>
+               <artifactId>shoppingbackend</artifactId>
+              <version>0.0.1-SNAPSHOT</version>
+             </dependency>
+         
 
 		<!-- Java ee Api -->
 		<!-- https://mvnrepository.com/artifact/javax/javaee-api -->
